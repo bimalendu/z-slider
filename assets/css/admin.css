@@ -1,0 +1,9 @@
+.zslider-metabox label{
+    color: #f00;
+}
+.zslider-metabox td{
+    padding: 5px;
+}
+.zslider-metabox th{
+    padding: 10px 10px 5px 0;
+}
